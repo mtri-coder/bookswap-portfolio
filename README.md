@@ -118,11 +118,11 @@ It was developed using React Native and Expo, with React Navigation for applicat
 
 The home screen provides users with access to the main BookSwap features and book marketplace.
 
-![BookSwap Mobile Home](images/mobile/mobile-home.png)
+![BookSwap Mobile Home](images/mobile/mobile-home.jpg)
 
 Users can explore available books and navigate to different areas of the application.
 
-![BookSwap Mobile Marketplace](images/mobile/mobile-marketplace.png)
+![BookSwap Mobile Marketplace](images/mobile/mobile-marketplace.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ Users can explore available books and navigate to different areas of the applica
 
 Users can view detailed information about a selected book before performing actions such as purchasing, exchanging, or participating in an auction.
 
-![BookSwap Mobile Book Detail](images/mobile/mobile-book-detail.png)
+![BookSwap Mobile Book Detail](images/mobile/mobile-book-detail.jpg)
 
 ---
 
@@ -138,7 +138,7 @@ Users can view detailed information about a selected book before performing acti
 
 Users can create listings for books they want to sell.
 
-![BookSwap Mobile Sell Book](images/mobile/mobile-sell-book.png)
+![BookSwap Mobile Sell Book](images/mobile/mobile-sell-book.jpg)
 
 The selling flow allows users to provide book information and manage their listings.
 
@@ -148,11 +148,11 @@ The selling flow allows users to provide book information and manage their listi
 
 BookSwap provides an auction feature where users can participate in book auctions and place bids.
 
-![BookSwap Mobile Auction](images/mobile/mobile-auction.png)
+![BookSwap Mobile Auction](images/mobile/mobile-auction.jpg)
 
-![BookSwap Mobile Auction Detail](images/mobile/mobile-auction-detail.png)
+![BookSwap Mobile Auction Detail](images/mobile/mobile-auction-detail.jpg)
 
-![BookSwap Mobile Auction History](images/mobile/mobile-auction-history.png)
+![BookSwap Mobile Auction History](images/mobile/mobile-auction-history.jpg)
 
 The auction functionality also supports real-time updates through Socket.IO.
 
@@ -162,11 +162,11 @@ The auction functionality also supports real-time updates through Socket.IO.
 
 Users can exchange books with other users through the exchange workflow.
 
-![BookSwap Mobile Exchange](images/mobile/mobile-exchange.png)
+![BookSwap Mobile Exchange](images/mobile/mobile-exchange.jpg)
 
-![BookSwap Mobile Exchange Detail](images/mobile/mobile-exchange-detail.png)
+![BookSwap Mobile Exchange Detail](images/mobile/mobile-exchange-detail.jpg)
 
-![BookSwap Mobile Exchange Status](images/mobile/mobile-exchange-status.png)
+![BookSwap Mobile Exchange Status](images/mobile/mobile-exchange-status.jpg)
 
 ---
 
@@ -174,7 +174,7 @@ Users can exchange books with other users through the exchange workflow.
 
 The application provides a chat feature for communication between users.
 
-![BookSwap Mobile Chat](images/mobile/mobile-chat.png)
+![BookSwap Mobile Chat](images/mobile/mobile-chat.jpg)
 
 Real-time communication is implemented using Socket.IO.
 
@@ -184,9 +184,9 @@ Real-time communication is implemented using Socket.IO.
 
 Users can view and manage their orders and complete the payment process.
 
-![BookSwap Mobile Order](images/mobile/mobile-order.png)
+![BookSwap Mobile Order](images/mobile/mobile-order.jpg)
 
-![BookSwap Mobile Payment](images/mobile/mobile-payment.png)
+![BookSwap Mobile Payment](images/mobile/mobile-payment.jpg)
 
 ---
 
@@ -194,7 +194,7 @@ Users can view and manage their orders and complete the payment process.
 
 Users can manage their profile and personal activities.
 
-![BookSwap Mobile Profile](images/mobile/mobile-profile.png)
+![BookSwap Mobile Profile](images/mobile/mobile-profile.jpg)
 
 ---
 
@@ -210,7 +210,7 @@ It provides interfaces for managing different parts of the BookSwap platform.
 
 Operational users can manage auction-related activities through the web platform.
 
-![BookSwap Web Auction Management](images/web/web-auction-management.png)
+![BookSwap Web Auction Management](images/web/web-auction-management.jpg)
 
 ---
 
@@ -218,9 +218,9 @@ Operational users can manage auction-related activities through the web platform
 
 The web platform provides interfaces for managing orders and viewing order-related information.
 
-![BookSwap Web Order Management](images/web/web-order-management.png)
+![BookSwap Web Order Management](images/web/web-order-management.jpg)
 
-![BookSwap Web Order Detail](images/web/web-order-detail.png)
+![BookSwap Web Order Detail](images/web/web-order-detail.jpg)
 
 ---
 
@@ -228,7 +228,7 @@ The web platform provides interfaces for managing orders and viewing order-relat
 
 Payment-related information can be reviewed and managed through the web platform.
 
-![BookSwap Web Payment Management](images/web/web-payment-management.png)
+![BookSwap Web Payment Management](images/web/web-payment-management.jpg)
 
 ---
 
@@ -236,7 +236,7 @@ Payment-related information can be reviewed and managed through the web platform
 
 The web platform also supports report management for operational and moderation purposes.
 
-![BookSwap Web Report Management](images/web/web-report-management.png)
+![BookSwap Web Report Management](images/web/web-report-management.jpg)
 
 ---
 
