@@ -150,9 +150,9 @@ BookSwap provides an auction feature where users can participate in book auction
 
 ![BookSwap Mobile Auction](images/mobile/mobile-auction.jpg)
 
-![BookSwap Mobile Auction Detail](images/mobile/mobile-auction-detail.jpg)
+![BookSwap Mobile Auction Detail](images/mobile/mobile-auction1.jpg)
 
-![BookSwap Mobile Auction History](images/mobile/mobile-auction-history.jpg)
+![BookSwap Mobile Auction History](images/mobile/mobile-auction2.jpg)
 
 The auction functionality also supports real-time updates through Socket.IO.
 
@@ -164,9 +164,9 @@ Users can exchange books with other users through the exchange workflow.
 
 ![BookSwap Mobile Exchange](images/mobile/mobile-exchange.jpg)
 
-![BookSwap Mobile Exchange Detail](images/mobile/mobile-exchange-detail.jpg)
+![BookSwap Mobile Exchange Detail](images/mobile/mobile-exchange1.jpg)
 
-![BookSwap Mobile Exchange Status](images/mobile/mobile-exchange-status.jpg)
+![BookSwap Mobile Exchange Status](images/mobile/mobile-exchange2.jpg)
 
 ---
 
@@ -210,7 +210,7 @@ It provides interfaces for managing different parts of the BookSwap platform.
 
 Operational users can manage auction-related activities through the web platform.
 
-![BookSwap Web Auction Management](images/web/web-auction-management.jpg)
+![BookSwap Web Auction Management](images/web/Auction%20management.jpg)
 
 ---
 
@@ -218,9 +218,9 @@ Operational users can manage auction-related activities through the web platform
 
 The web platform provides interfaces for managing orders and viewing order-related information.
 
-![BookSwap Web Order Management](images/web/web-order-management.jpg)
+![BookSwap Web Order Management](images/web/Order%20management.jpg)
 
-![BookSwap Web Order Detail](images/web/web-order-detail.jpg)
+![BookSwap Web Order Detail](images/web/Order%20management1.jpg)
 
 ---
 
@@ -228,7 +228,7 @@ The web platform provides interfaces for managing orders and viewing order-relat
 
 Payment-related information can be reviewed and managed through the web platform.
 
-![BookSwap Web Payment Management](images/web/web-payment-management.jpg)
+![BookSwap Web Payment Management](images/web/Payment%20management.jpg)
 
 ---
 
@@ -236,7 +236,7 @@ Payment-related information can be reviewed and managed through the web platform
 
 The web platform also supports report management for operational and moderation purposes.
 
-![BookSwap Web Report Management](images/web/web-report-management.jpg)
+![BookSwap Web Report Management](images/web/Report%20management.jpg)
 
 ---
 
